@@ -7,6 +7,6 @@ En este caso, ¡los realizo en Bash!
 
 [#1 - FizzBuzz](https://github.com/aperezmari/retos_programacion_bash_ejercicios/blob/main/fizzbuzz.sh) 
 
-[#2 - ¿Es un anagrama?](https://github.com/aperezmari/retos_programacion_bash_ejercicios/blob/main/es_un_anagrama.sh) 
+[#EXTRA - Capicua](https://github.com/aperezmari/retos_programacion_bash_ejercicios/blob/main/capicua.sh) 
 
 

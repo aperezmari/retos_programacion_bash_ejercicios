@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # ================================
-# Título del Programa: ¿Es un anagrama?
-# Descripción: Recibe una palabra y comprueba si es igual al leerla al reves.
+# Título del Programa: Capicua
+# Descripción: Recibe una palabra o numero y comprueba si es igual al leerla al reves.
 # Autor: Allen
 # Fecha: 24/10/24
 # ================================
@@ -15,7 +15,7 @@ for (( i=$longitud - 1; i>-1; i-- )); do
 done
 
 if [ "$invertido" = "$string" ]; then
-    echo "Es un anagrama"
+    echo "Es capicua"
 else
-    echo "No es un anagrama"
+    echo "No es capicua"
 fi
