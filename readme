@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` en formato Markdown con HTML incluido. Puedes copiarlo y adaptarlo a tu repositorio:
-
-```markdown
 # Retos de Programación en Bash
 
 Los ejercicios de este repositorio los tomé del reto de programación de [MoureDev](https://retosdeprogramacion.com/ejercicios/).  
@@ -9,6 +6,6 @@ En este caso, ¡los realizo en Bash!
 ## Ejercicios
 
 ### 1. FizzBuzz
-[#1 - FizzBuzz](#) 
-```
+[#1 - FizzBuzz](https://github.com/aperezmari/retos_programacion_bash_ejercicios/blob/main/fizzbuzz.sh) 
+
 
