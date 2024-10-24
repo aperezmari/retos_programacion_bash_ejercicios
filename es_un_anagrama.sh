@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ================================
-# Título del Programa: FizzBuzz
+# Título del Programa: ¿Es un anagrama?
 # Descripción: Recibe una palabra y comprueba si es igual al leerla al reves.
 # Autor: Allen
 # Fecha: 24/10/24
